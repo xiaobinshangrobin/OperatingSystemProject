@@ -1,0 +1,27 @@
+help
+set x 10
+set y mary
+set x bob
+set a Robin
+set b student
+set b 10
+print a
+print b
+print haha
+fakeCommand
+run happy.txt
+print a
+print a
+exec abc
+exec abc def
+exec abc def ghi
+exec TESTFILE1.TXT
+exec TESTFILE1.TXT TESTFILE1.TXT
+exec TESTFILE1.TXT TESTFILE2.TXT
+exec TESTFILE1.TXT TESTFILE2.TXT TESTFILE3.TXT
+exec TESTFILE2.TXT TESTFILE1.TXT TESTFILE3.TXT
+quit
+
+
+
+
